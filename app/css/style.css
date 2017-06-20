@@ -1,0 +1,192 @@
+body {
+  font-family: 'Lato', sans-serif; }
+
+.title {
+  text-align: center; }
+
+.skillbox {
+  margin: 20px auto; }
+
+a {
+  float: left;
+  width: 5%;
+  font-size: 30px; }
+
+.ion-social-html5-outline {
+  color: #DD3b2d; }
+
+.ion-social-css3-outline {
+  color: #0277bd;
+  font-size: 30px; }
+
+.ion-social-javascript {
+  color: #e5a228; }
+
+.ion-social-angular-outline {
+  color: #E42939; }
+
+.ion-social-nodejs {
+  color: #83CD29; }
+
+.ion-social-wordpress-outline {
+  color: #008AC1; }
+
+.skillBar {
+  width: 90%;
+  height: 35px;
+  margin: 2px auto; }
+
+.skillArea {
+  width: 70%;
+  float: left;
+  padding-left: 5px; }
+
+.skillName {
+  float: left;
+  padding: 7px;
+  width: 15%;
+  text-align: center; }
+
+.skill-HTML {
+  width: 95%;
+  height: 2px;
+  -webkit-animation: Animate-HTML 5s;
+          animation: Animate-HTML 5s;
+  background-color: #595B5E;
+  position: relative;
+  top: 17px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  float: left; }
+
+.skill-CSS {
+  width: 85%;
+  height: 2px;
+  -webkit-animation: Animate-CSS 5s;
+          animation: Animate-CSS 5s;
+  background-color: #595B5E;
+  position: relative;
+  top: 17px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  float: left; }
+
+.skill-JS {
+  width: 80%;
+  height: 2px;
+  -webkit-animation: Animate-JS 5s;
+          animation: Animate-JS 5s;
+  background-color: #595B5E;
+  position: relative;
+  top: 17px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  float: left; }
+
+.skill-A4 {
+  width: 45%;
+  height: 2px;
+  -webkit-animation: Animate-A4 5s;
+          animation: Animate-A4 5s;
+  background-color: #595B5E;
+  position: relative;
+  top: 17px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  float: left; }
+
+.skill-NODEJS {
+  width: 70%;
+  height: 2px;
+  -webkit-animation: Animate-NODEJS 5s;
+          animation: Animate-NODEJS 5s;
+  background-color: #595B5E;
+  position: relative;
+  top: 17px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  float: left; }
+
+.skill-WP {
+  width: 90%;
+  height: 2px;
+  -webkit-animation: Animate-WP 5s;
+          animation: Animate-WP 5s;
+  background-color: #595B5E;
+  position: relative;
+  top: 17px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  float: left; }
+
+@-webkit-keyframes Animate-HTML {
+  from {
+    width: 30px; }
+  to {
+    width: 95%; } }
+
+@keyframes Animate-HTML {
+  from {
+    width: 30px; }
+  to {
+    width: 95%; } }
+
+@-webkit-keyframes Animate-CSS {
+  from {
+    width: 30px; }
+  to {
+    width: 80%; } }
+
+@keyframes Animate-CSS {
+  from {
+    width: 30px; }
+  to {
+    width: 80%; } }
+
+@-webkit-keyframes Animate-JS {
+  from {
+    width: 30px; }
+  to {
+    width: 80%; } }
+
+@keyframes Animate-JS {
+  from {
+    width: 30px; }
+  to {
+    width: 80%; } }
+
+@-webkit-keyframes Animate-A4 {
+  from {
+    width: 30px; }
+  to {
+    width: 45%; } }
+
+@keyframes Animate-A4 {
+  from {
+    width: 30px; }
+  to {
+    width: 45%; } }
+
+@-webkit-keyframes Animate-NODEJS {
+  from {
+    width: 30px; }
+  to {
+    width: 70%; } }
+
+@keyframes Animate-NODEJS {
+  from {
+    width: 30px; }
+  to {
+    width: 70%; } }
+
+@-webkit-keyframes Animate-WP {
+  from {
+    width: 30px; }
+  to {
+    width: 90%; } }
+
+@keyframes Animate-WP {
+  from {
+    width: 30px; }
+  to {
+    width: 90%; } }
